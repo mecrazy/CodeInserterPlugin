@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Code Inserter Plugin
-Plugin URI: https://mecrazy.net/
+Plugin URI: https://github.com/mecrazy/CodeInserterPlugin
 Description: This plugin can append any Tags, CSS and JavaScript to your blog.
 Version: 1.0.0
 Author: mecrazy
